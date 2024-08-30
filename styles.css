@@ -1,0 +1,28 @@
+body{
+ color:ghostwhite;
+ background:lightslategray;
+ margin: 0 px;
+ margin-bottom: 100px;
+}
+
+header{
+font-size: 30px; 
+
+padding: 20px;
+
+display: flex;
+justify-content: center;
+}
+
+.title{
+font-size: 25px;
+display: flex; 
+justify-content: center;
+}
+ texto{
+    font-size: 25px;
+ }
+ img{
+   height: 200px;
+   margin: 20px;
+ }
